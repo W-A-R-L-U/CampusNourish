@@ -1,2 +1,2 @@
-streamlit
-pymongo
+pip install streamlit
+pip install pymongo
